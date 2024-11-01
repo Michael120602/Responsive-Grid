@@ -227,6 +227,13 @@ p{
 
 @media (max-width:1025px) {
 .container{
+    top: 0;
+    padding-bottom: 2.5%;
+    margin-top: 2.5%;
+    transform: none;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 65rem;
     grid-template-columns: repeat(3, 33.333%);
     grid-template-rows: repeat(26, 4.76%);
 }
