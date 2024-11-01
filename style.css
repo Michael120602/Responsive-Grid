@@ -362,8 +362,8 @@ p{
     grid-column:1/2 ;
 }
 .five{
-    grid-row:4/7 ;
-    grid-column:2/3 ;
+    grid-row:14/17 ;
+    grid-column:1/2 ;
 }
 .five p{
     font-size: 23px;
@@ -373,8 +373,8 @@ p{
     width: 120%;
 }
 .six{
-    grid-row:14/17 ;
-    grid-column:1/2 ;
+    grid-row:4/7 ;
+    grid-column:2/3 ;
 }
 .seven{
     grid-row:7/10 ;
